@@ -1,4 +1,4 @@
-# Modulo2-FinalProject
+# Module2-FinalProject
 Codegym Java Developer in 12 months - Module 2 - Final Project
 --- *** --- *** ---
 The project consists of developing a console chat, where the user identifies himself and can start chatting with other users who are also running the application and pointing to the same IP address.
